@@ -12,4 +12,4 @@
 | Day-3 | Landing-page-pepsi | https://landing-page-pepsi.aayushjaincode.repl.co |
 
 ## Linkedin
-https://www.linkedin.com/in/aayush-jain-code/
+<img src="./linkedin.png" width=20px>    https://www.linkedin.com/in/aayush-jain-code/
