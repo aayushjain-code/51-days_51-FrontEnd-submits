@@ -8,3 +8,4 @@
 | :---  | :------------- | :------------------ |  
 | Day-1 | CSS Mousemove Effects  | https://CSS-Mousemove-Effects.aayushjaincode.repl.co|
 | Day-2 | Live Character Counter  | https://word-counter.aayushjaincode.repl.co |
+| Day-3 | Landing-page-pepsi | https://landing-page-pepsi.aayushjaincode.repl.co |
