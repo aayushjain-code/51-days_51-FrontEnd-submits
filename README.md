@@ -10,6 +10,7 @@
 | Day-1 | CSS Mousemove Effects  | https://CSS-Mousemove-Effects.aayushjaincode.repl.co|
 | Day-2 | Live Character Counter  | https://word-counter.aayushjaincode.repl.co |
 | Day-3 | Landing-page-pepsi | https://landing-page-pepsi.aayushjaincode.repl.co |
+| Day-4 | Random-Password-genrator & Copy | https://password-genrator.aayushjaincode.repl.co |
 
 ## Linkedin
 <img src="./linkedin.png" width=20px>    https://www.linkedin.com/in/aayush-jain-code/
