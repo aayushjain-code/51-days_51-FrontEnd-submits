@@ -12,6 +12,7 @@
 | Day-3 | Landing-page-pepsi | https://landing-page-pepsi.aayushjaincode.repl.co |
 | Day-4 | Random-Password-generator & Copy | https://password-genrator.aayushjaincode.repl.co |
 | Day-5 | Page-scroll-Animation with Progress Bar | https://page-scroll-animation.aayushjaincode.repl.co/|
+| Day-6 | Random-Background-Generator | https://repl.it/@Aayushjaincode/Random-Background-Generator# |
 
 ## Linkedin
 <img src="./linkedin.png" width=20px>    https://www.linkedin.com/in/aayush-jain-code/
