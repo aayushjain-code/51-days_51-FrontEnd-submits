@@ -14,6 +14,7 @@
 | Day-5 | Page-scroll-Animation with Progress Bar | https://page-scroll-animation.aayushjaincode.repl.co/|
 | Day-6 | Random-Background-Generator | https://random-background-generator.aayushjaincode.repl.co/ |
 | Day-7 | Text-animation |https://text-animation.aayushjaincode.repl.co/ |
+| Day-8| To-do-list-with different functions | https://to-do-list-js.aayushjaincode.repl.co/ |
 
 ## Linkedin
 <img src="./linkedin.png" width=20px>    https://www.linkedin.com/in/aayush-jain-code/
