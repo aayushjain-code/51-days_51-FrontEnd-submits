@@ -7,7 +7,7 @@
 
 | Day   | Project Name    | Source Code/Preview |
 | :---  | :------------- | :------------------ |  
-| Day-1 | CSS Mousemove Effects  | https://CSS-Mousemove-Effects.aayushjaincode.repl.co|
+| Day-1 | [CSS Mousemove Effects](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-1-CSS%20Mousemove%20Effects)  | https://CSS-Mousemove-Effects.aayushjaincode.repl.co|
 | Day-2 | Live Character Counter  | https://word-counter.aayushjaincode.repl.co |
 | Day-3 | Landing-page-pepsi | https://landing-page-pepsi.aayushjaincode.repl.co |
 | Day-4 | Random-Password-generator & Copy | https://password-genrator.aayushjaincode.repl.co |
