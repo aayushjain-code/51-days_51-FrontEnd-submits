@@ -20,7 +20,7 @@
 | Day-11| [Popup Signup box](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-11-Popup%20Signup%20box)| https://popup-signup-box.aayushjaincode.repl.co/ |
 | Day-12| [Custom Slider](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-12%20Custom%20Slider)| https://custom-slider.aayushjaincode.repl.co/ |
 | Day-13| [Filterable gallery](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-13-Filterable%20gallery)| https://filterable-gallery.aayushjaincode.repl.co/ |
-| Day-14| [Image magnifier on mouse hover](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-13-Filterable%20gallery)| https://filterable-gallery.aayushjaincode.repl.co/ |
+| Day-14| [Image magnifier on mouse hover](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-14-Image%20magnifier%20on%20mouse%20hover)| https://image-magnifier-on-mouse-hover.aayushjaincode.repl.co/ |
 
 
 
