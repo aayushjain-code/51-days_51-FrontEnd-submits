@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Page Image Zoom Effect Jquery</title>
+    <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+
+    <!-- Content -->
+    <div class="container">
+        <!-- Zoom Contaier Start -->
+        <div class="xzoom-container">
+            <img src="./images/1-min.jpg" class="xzoom " xoriginal="./images/1.jpg">
+
+            <div class="xzoom-thumbs ">
+
+                <a href="./images/1.jpg" onclick="imageChange()">
+                    <img class="xzoom-gallery" src="./images/1-min.jpg" xpreview="./images/1-min.jpg">
+                </a>
+
+                <a href="./images/2.jpg" onclick="imageChange()">
+                    <img class="xzoom-gallery" src="./images/2-min.jpg">
+                </a>
+
+                <a href="./images/3.jpg" onclick="imageChange()">
+                    <img class="xzoom-gallery" src="./images/3-min.jpg">
+                </a>
+                <a href="./images/4.jpg" onclick="imageChange()">
+                    <img class="xzoom-gallery" src="./images/4-min.jpg">
+                </a>
+                
+            </div>
+        </div>
+        <!-- Zoom Contaier end -->
+
+
+        <!-- Description Contaier start -->
+        <div class="description">
+            <h1>
+                Green Women's top
+            </h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate aliquid corrupti alias. Ab excepturi
+                beatae maxime recusandae, ipsa repellat doloremque corrupti, consequatur magnam sunt quaerat quia
+                eveniet eum. Sunt quasi vel quo adipisci provident! Eum accusantium quod quo, odit animi ipsa placeat
+                sint sapiente, iure pariatur, modi expedita eius veniam.</p>
+            <span>
+                150$
+            </span>
+            <div>
+                <button class="buy">
+                    Buy Now
+                </button>
+                <button class="cart">
+                    Add to cart
+                </button>
+            </div>
+        </div>
+        <!-- Description Contaier end -->
+    </div>
+
+    <script src="./js/jquery.js"></script>
+    <script src="./js/zoom.js"></script>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
