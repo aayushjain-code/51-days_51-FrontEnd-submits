@@ -21,8 +21,8 @@
 | Day-12| [Custom Slider](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-12%20Custom%20Slider)| https://custom-slider.aayushjaincode.repl.co/ |
 | Day-13| [Filterable gallery](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-13-Filterable%20gallery)| https://filterable-gallery.aayushjaincode.repl.co/ |
 | Day-14| [Image magnifier on mouse hover](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-14-Image%20magnifier%20on%20mouse%20hover)| https://image-magnifier-on-mouse-hover.aayushjaincode.repl.co/ |
+| Day-15| [filterable slider gallery](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-15-filterable-slider-gallery)| https://filterable-slider-gallery.aayushjaincode.repl.co/ |
 
-
-
+filterable slider gallery
 ## Linkedin
 <img src="./linkedin.png" width=20px>    https://www.linkedin.com/in/aayush-jain-code/
