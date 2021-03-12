@@ -22,6 +22,8 @@
 | Day-13| [Filterable gallery](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-13-Filterable%20gallery)| https://filterable-gallery.aayushjaincode.repl.co/ |
 | Day-14| [Image magnifier on mouse hover](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-14-Image%20magnifier%20on%20mouse%20hover)| https://image-magnifier-on-mouse-hover.aayushjaincode.repl.co/ |
 | Day-15| [filterable slider gallery](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-15-filterable-slider-gallery)| https://filterable-slider-gallery.aayushjaincode.repl.co/ |
+| Day-16| [product card hover effect](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-16-product%20card%20hover%20effect)| https://product-card-hover-effect.aayushjaincode.repl.co/|
+
 
 filterable slider gallery
 ## Linkedin
