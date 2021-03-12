@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- font awesome cdn link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
+
+    <title>Product card hover effect</title>
+
+    <!-- custom css file link -->
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    
+<div class="card-container">
+
+    <div class="card">
+
+        <div class="image">
+            <img src="images\shoe1.png" alt="">
+        </div>
+
+        <div class="content">
+            <h3 class="title">adidas shoes</h3>
+            <ul class="size">
+                <span> size : </span>
+                <li class="active"> 07 </li>
+                <li> 08 </li>
+                <li> 09 </li>
+                <li> 10 </li>
+            </ul>
+            <div class="price"> ₹500/- <span>₹700/-</span> </div>
+            <a href="#"><button class="btn">add to cart</button></a>
+        </div>
+
+        <div class="icons">
+            <a href="#" class="fas fa-heart"></a>
+            <a href="#" class="fas fa-share"></a>
+            <a href="#" class="fas fa-search"></a>
+        </div>
+
+        <div class="colors">
+            <span class="active" style="background:#BF2227;" data-image="images\shoe1.png"></span>
+            <span style="background:#4481B9;" data-image="images\shoe2.png"></span>
+            <span style="background:#2D584E;" data-image="images\shoe3.png"></span>
+            <span style="background:#F0BC39;" data-image="images\shoe4.png"></span>
+            <span style="background:#292927;" data-image="images\shoe5.png"></span>
+        </div>
+
+    </div>
+
+</div>
+
+<!-- jquery cdn link  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
+<!-- internal javascript link -->
+
+<script src="script.js"></script>
+
+</body>
+</html>
