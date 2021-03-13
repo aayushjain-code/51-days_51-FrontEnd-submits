@@ -1,0 +1,113 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background: yellow;
+  font-family: "Montserrat", sans-serif;
+}
+
+.main {
+  display: grid;
+  place-items: center;
+  height: 600px;
+  width: 400px;
+  background: #fff;
+  box-shadow: 0 0 10px #333;
+  border-radius: 10px;
+}
+
+.main #output {
+  height: 200px;
+  width: 200px;
+  background: #ff3300;
+}
+
+.main #box {
+  height: 30px;
+  width: 300px;
+  background: #333;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 50px;
+  text-align: center;
+}
+
+input[type="range"] {
+  -webkit-appearance: none;
+  height: 15px;
+  width: 80%;
+  background: #333;
+  border-radius: 50px;
+  outline: none;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 25px;
+  width: 25px;
+  background: #ff3300;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.copy-system {
+  position: absolute;
+  top: 415px;
+  right: 580px;
+}
+
+.copy {
+  width: 30px;
+
+  cursor: pointer;
+  opacity: 0.2;
+}
+
+.copy:hover {
+  opacity: 1;
+}
+
+/* text on hover */
+a.tooltips {
+  position: relative;
+  display: inline;
+}
+
+a.tooltips span {
+  position: absolute;
+  width: 200px;
+  color: #ffffff;
+  background: #000000;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  visibility: hidden;
+  border-radius: 6px;
+}
+
+a.tooltips span:after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 35%;
+  margin-left: -8px;
+  width: 0;
+  height: 0;
+  border-top: 8px solid #000000;
+  border-right: 8px solid transparent;
+  border-left: 8px solid transparent;
+}
+
+a:hover.tooltips span {
+  visibility: visible;
+  opacity: 0.8;
+  bottom: 30px;
+  left: 50%;
+  margin-left: -76px;
+  z-index: 999;
+}
