@@ -1,0 +1,118 @@
+body{
+    font-family: "poppins",sans-serif;
+    background-image: url(bg-testimonials.jpg);
+}
+
+#service-tabs{
+    margin-top: 20px;
+}
+
+#service-tabs ul{
+    margin-bottom: 40px;
+}
+
+#service-tabs ul li{
+    padding: 5px 30px;
+}
+
+#service-tabs ul li a{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+    text-transform: capitalize;
+    font-weight: 500;
+    padding: 0;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#service-tabs ul li.r-tabs-state-active a{
+    color: #fb527a;
+    font-weight: 400;
+    border-bottom: 3px solid #fb527a;
+    padding-bottom: 5px;
+    transition: border-color 300ms linear;
+}
+
+.service-tab .col-md-6{
+    padding: 0;
+}
+
+.service-tab img{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.tab-bg{
+    background: white;
+    padding: 60px;
+    min-height: 451px;
+    margin-top: -30px;
+}
+
+.service-tab h2{
+    font-size: 118px;
+    color: #bbb;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+.service-tab h3{
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.service-tab p{
+    line-height: 24px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+}
+
+.btn-genral{
+    font-family: sans-serif;
+    border-radius: 50px !important;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin: 0 6px;
+    padding: 12px 30px;
+    transition: all 0.5s;
+}
+
+.btn-yellow{
+    color: #fb527a;
+    border: 3px solid #fb527a !important;
+    text-transform: capitalize;
+}
+
+.btn-yellow:hover,
+.btn-yellow:focus{
+    color: white  !important;
+    background-color: #fb527a;
+    border: 1px solid #212226;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
