@@ -29,6 +29,5 @@
 | Day-20| [Rotating slider](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-20-Rotating%20slider)| [preview](https://rotating-slider.aayushjaincode.repl.co/)|
 
 
-filterable slider gallery
 ## Linkedin
-<img src="./linkedin.png" width=20px>    https://www.linkedin.com/in/aayush-jain-code/
+<img src="./linkedin.png" width=25px>    https://www.linkedin.com/in/aayush-jain-code/
