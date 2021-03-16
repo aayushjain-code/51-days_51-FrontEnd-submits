@@ -1,0 +1,114 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <title>rotating slider design</title>
+     <link rel="stylesheet" href="css/jquery.rotatingSlideshow.css">
+ </head>
+ <body>
+     
+     <div class="rotating-slideshow" style="margin-top: 90px;">
+         
+         <div id="slider-main" data-position="1" data-deg="0">
+             <div id="slider-btns" class="button">
+                 
+                 <a id="pos1" class="pos1" data-position="1"></a>
+                 
+                  <a id="pos2" class="pos2" data-position="4"></a>
+                 
+                  <a id="pos3" class="pos3" data-position="3"></a>
+                 
+                 
+                  <a id="pos4" class="pos4" data-position="2"></a>
+              
+             </div>
+             
+             <div class="slider-overlay">
+                 <div class="active" data-position="1">
+                     <h1 style="background-color: rgba(255, 255, 255, 0.219); width: 10%; text-align: center; ">01</h1>
+                     <h3>HOME</h3>
+                     <p style="background-color: rgba(255, 255, 255, 0.219);  text-align: left;padding: 5px;">
+                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, vitae obcaecati eum magni reiciendis, debitis minus velit ullam quis assumenda aliquam molestias deserunt repudiandae voluptas cum. Eos harum, corrupti minima!
+                     </p>
+                     
+                     
+                 </div>
+                 
+                 
+                 <div data-position="2">
+                    <h1 style="background-color: rgba(255, 255, 255, 0.219); width: 10%; text-align: center;">02</h1>
+                     <h3>GALLERY</h3>
+                    <p style="background-color: rgba(255, 255, 255, 0.219);  text-align: left;padding: 5px;">
+                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro harum cupiditate excepturi voluptatum molestias labore esse cumque quaerat laboriosam ea. Odio natus, nostrum iusto voluptas blanditiis voluptatem, laboriosam ex dolor!
+                     </p>
+                     
+                     
+                 </div>
+                 
+                 <div data-position="3">
+                    <h1 style="background-color: rgba(255, 255, 255, 0.219); width: 10%; text-align: center;">03</h1>
+                     <h3>SERVICES</h3>
+                    <p style="background-color: rgba(255, 255, 255, 0.219);  text-align: left;padding: 5px;">
+                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias voluptas pariatur molestiae iure placeat error ex delectus doloribus, animi at nihil fugit vero? Explicabo nobis, deleniti a maiores beatae totam.
+                     </p>
+                 </div>
+                 
+                 <div data-position="4">
+                    <h1 style="background-color: rgba(255, 255, 255, 0.219); width: 10%; text-align: center;">04</h1>
+                     <h3>OUR TEAM</h3>
+                    <p style="background-color: rgba(255, 255, 255, 0.219);  text-align: left;padding: 5px;">
+                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis dolore est deserunt reiciendis animi, modi saepe repudiandae doloremque reprehenderit repellat fugiat odio earum doloribus facere, harum expedita impedit quae. Fuga.
+                     </p>
+                 </div>
+             
+             </div>
+             
+             <div class="slides">
+                 <img src="parallax-bg.jpg" class="active" data-position="1">
+                 
+                 <img src="home-bg-1.jpg" data-position="2" alt="">
+                 
+                 <img src="bg.jpg" data-position="3" alt="">
+                 
+                 <img src="pexels-photo-1250289.jpeg" data-position="4" alt="">
+             
+             </div>
+             <img src="images/button.png" class="spinner-btn" alt="">
+             
+             <img src="images/slides-overlay.jpg" class="spinner">             
+              
+         </div>
+         
+         <audio id="slider-sound" preload="auto">
+             <source src="sound/sound.mp3"> 
+         </audio>
+       
+     </div>
+     
+     <script src="js\jquery-3.3.1.js"></script>
+     
+     <script src="js/jquery.rotatingSlideshow.js"></script>
+     
+     <script>
+     
+     $(document).ready(function(){
+        $('.rotating-slideshow').rotatingSlideshow({
+            sliderHolder: '#slider-main',
+            btnsHolder: '#slider-btns',
+            audioHolder: '#slider-sound',
+            auto:true,
+            autoSpeed:'6000'
+        });
+         
+     });
+     
+     
+     
+     
+     
+     </script>
+     
+     
+     
+ </body>
+ </html>
