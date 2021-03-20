@@ -29,7 +29,7 @@
 | Day-20| [Rotating slider](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-20-Rotating%20slider)| [preview](https://rotating-slider.aayushjaincode.repl.co/)|
 | Day-21| [Product-Card-Add-to-Cart-Effect.](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-21-Product%20card%20Add%20to%20cart%20effect)| [preview](https://product-card-add-to-cart-effect.aayushjaincode.repl.co/)|
 | Day-22| [One-Page-Animated-Website](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-22-One-Page-Animated-Website)| [preview](https://one-page-animated-website.aayushjaincode.repl.co/)|
-| Day-23| [3D Transform Gallery Effect](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-23-3D%20Transform%20Gallery%20Effect)| [preview](https://replit.com/@Aayushjaincode/3D-Transform-Gallery-Effect#fliponclick.html)|
+| Day-23| [3D Transform Gallery Effect](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-23-3D%20Transform%20Gallery%20Effect)| [preview](https://3d-transform-gallery-effect.aayushjaincode.repl.co/)|
 
 ## Linkedin
 <img src="./linkedin.png" width=25px>    https://www.linkedin.com/in/aayush-jain-code/
