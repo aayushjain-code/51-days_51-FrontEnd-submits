@@ -31,6 +31,8 @@
 | Day-22| [One-Page-Animated-Website](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-22-One-Page-Animated-Website)| [preview](https://one-page-animated-website.aayushjaincode.repl.co/)|
 | Day-23| [3D Transform Gallery Effect](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-23-3D%20Transform%20Gallery%20Effect)| [preview](https://3d-transform-gallery-effect.aayushjaincode.repl.co/)|
 | Day-24| [QR-code-generator](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-24-QR-code-generator)| [preview](https://qr-code-generator.aayushjaincode.repl.co/)|
+| Day-25| [Expanding-Image-Gallery](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-25-Expanding-Image-Gallery)| [preview](https://expanding-image-gallery.aayushjaincode.repl.co/)|
+
 
 ## Linkedin
 <img src="./linkedin.png" width=25px>    https://www.linkedin.com/in/aayush-jain-code/
