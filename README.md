@@ -32,6 +32,7 @@
 | Day-23| [3D Transform Gallery Effect](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-23-3D%20Transform%20Gallery%20Effect)| [Preview](https://3d-transform-gallery-effect.aayushjaincode.repl.co/)|
 | Day-24| [QR-code-generator](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-24-QR-code-generator)| [Preview](https://qr-code-generator.aayushjaincode.repl.co/)|
 | Day-25| [Expanding-Image-Gallery](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-25-Expanding-Image-Gallery)| [Preview](https://expanding-image-gallery.aayushjaincode.repl.co/)|
+| Day-26| [NetFlix-like-Sidebar-Menu](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-26-NetFlix-like-Sidebar-Menu)| [Preview](https://netflix-like-sidebar-menu.aayushjaincode.repl.co/)|
 
 
 ## Linkedin
