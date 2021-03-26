@@ -33,6 +33,7 @@
 | Day-24| [QR-code-generator](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-24-QR-code-generator)| [Preview](https://qr-code-generator.aayushjaincode.repl.co/)|
 | Day-25| [Expanding-Image-Gallery](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-25-Expanding-Image-Gallery)| [Preview](https://expanding-image-gallery.aayushjaincode.repl.co/)|
 | Day-26| [NetFlix-like-Sidebar-Menu](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-26-NetFlix-like-Sidebar-Menu)| [Preview](https://netflix-like-sidebar-menu.aayushjaincode.repl.co/)|
+| Day-27| [Check box-Animation](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-27-Check%20box-Animation)| [Preview](https://day-26-check-box-animation.aayushjaincode.repl.co/)|
 
 
 ## Linkedin
