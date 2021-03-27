@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+body {
+  background: #ff385d81;
+  font-family: "Noto Sans", sans-serif;
+}
+.card-row {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  margin: 0 20px;
+  position: relative;
+  height: 350px;
+  width: 350px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: 0.4s all ease-in-out;
+  z-index: 1;
+  overflow: hidden;
+  box-shadow: 5px 4px 15px rgba(196, 196, 196, 0.4);
+  cursor: pointer;
+}
+.card-image {
+  position: absolute;
+  top: 0;
+  height: 240px;
+  width: 100%;
+  object-fit: cover;
+  z-index: -1;
+  transition: 0.4s all ease-in-out;
+}
+
+.card .fas {
+  position: absolute;
+  right: 10px;
+  color: rgb(255, 56, 92);
+  padding: 15px;
+}
+.card-footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  box-sizing: border-box;
+  padding: 0 20px 23px;
+}
+.card-title {
+  font-size: 18px;
+  line-height: 21px;
+  margin-top: 5px;
+  margin-bottom: 1px;
+}
+.card-text {
+  font-size: 14px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  color: #000000;
+}
+.card-text:last-child {
+  letter-spacing: unset;
+}
+.card-author {
+  font-weight: 500;
+  font-size: 15px;
+  color: #a15c01;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-left: 2px;
+}
+.card:hover {
+  width: 400px;
+  height: 400px;
+  transition: 0.4s all cubic-bezier(0.28, 0.01, 0.3, 1.02) 0.2s;
+  margin-left: 40px;
+  margin-right: 40px;
+  box-shadow: 20px 25px 30px rgba(0, 0, 0, 0.25);
+}
+.card:hover img {
+  transition: all 0.3s;
+  transform: scale(1.4);
+}
+.card:hover .card-image {
+  transition: 0.4s all cubic-bezier(0.28, 0.01, 0.3, 1.02) 0.2s;
+  height: 100%;
+  opacity: 0.3;
+}
