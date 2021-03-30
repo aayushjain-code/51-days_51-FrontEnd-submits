@@ -35,6 +35,7 @@
 | Day-26| [NetFlix-like-Sidebar-Menu](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-26-NetFlix-like-Sidebar-Menu)| [Preview](https://netflix-like-sidebar-menu.aayushjaincode.repl.co/)|
 | Day-27| [Check box-Animation](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-27-Check%20box-Animation)| [Preview](https://day-26-check-box-animation.aayushjaincode.repl.co/)|
 | Day-28| [Airbnb Like cards](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-28-Airbnb%20Like%20cards)| [Preview](https://airbnb-like-cards.aayushjaincode.repl.co/)|
+| Day-29| [Glassmorphism clock UI](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-29-Glassmorphism%20clock%20UI)| [Preview](https://clock.aayushjaincode.repl.co/)|
 
 
 ## Linkedin
