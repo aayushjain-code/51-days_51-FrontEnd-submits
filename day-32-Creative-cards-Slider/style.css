@@ -1,0 +1,134 @@
+/* reset */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #845ec2;
+  font-family: "Poppins", sans-serif;
+  color: #1f1f1f;
+}
+.container {
+  position: relative;
+  width: 350px;
+  height: 250px;
+}
+.card {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #ffffff;
+  width: 300px;
+  height: 300px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transform-origin: center;
+  transition: 0.4s cubic-bezier(0.28, 0.55, 0.385, 1.65);
+  font-size: 12px;
+  overflow: hidden;
+}
+.image {
+  width: 100%;
+  height: 180px;
+  overflow: hidden;
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
+}
+
+.detail {
+  padding: 15px 20px;
+  position: relative;
+}
+
+.detail h3 {
+  font-size: 15px;
+  margin: 0;
+}
+
+.detail i {
+  font-size: 10px;
+  margin-bottom: 5px;
+  color: gold;
+}
+
+.detail p {
+  font-size: 13px;
+  font-weight: 500;
+  color: #868686;
+  margin: 0;
+}
+
+.next {
+  position: absolute;
+  top: 53%;
+  right: 4%;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.next i {
+  background-color: #845ec2;
+  height: 40px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  border-radius: 50%;
+}
+
+.card:nth-child(1) {
+  z-index: 10;
+  top: 0px;
+  transform-origin: top;
+  transform: scale(1);
+  opacity: 1;
+}
+
+.card:nth-child(2) {
+  z-index: 9;
+  top: -15px;
+  transform-origin: top;
+  transform: scale(0.9);
+  opacity: 0.9;
+}
+
+.card:nth-child(3) {
+  z-index: 8;
+  top: -30px;
+  transform-origin: top;
+  transform: scale(0.8);
+  opacity: 0.8;
+}
+
+.card:nth-child(4) {
+  z-index: 7;
+  top: -45px;
+  transform-origin: top;
+  transform: scale(0.7);
+  opacity: 0.7;
+}
+
+.card:nth-child(5) {
+  z-index: 6;
+  top: -60px;
+  transform-origin: top;
+  transform: scale(0.6);
+  opacity: 0.6;
+}
+
+.card:first-child:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  transform: scale(1.05);
+}
+
+.card:last-child {
+  opacity: 0;
+}
