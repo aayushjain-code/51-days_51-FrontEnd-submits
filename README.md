@@ -38,6 +38,7 @@
 | Day-29| [Glassmorphism clock UI](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-29-Glassmorphism%20clock%20UI)| [Preview](https://clock.aayushjaincode.repl.co/)|
 | Day-30| [GlassMorphism Flip DebitCard](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-30-GlassMorphism%20Flip%20DebitCard)| [Preview](https://glassmorphism-flip-debitcard.aayushjaincode.repl.co/)|
 | Day-31| [Random Dad Jokes Generator](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-31-Random%20Dad%20Jokes%20Generator)| [Preview](https://random-dad-jokes-generator.aayushjaincode.repl.co/)|
+| Day-32| [Creative-cards-Slider](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-31-Random%20Dad%20Jokes%20Generator)| [Preview](https://cards-slider.aayushjaincode.repl.co/)|
 
 
 ## Linkedin
