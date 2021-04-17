@@ -39,7 +39,7 @@
 | Day-30| [GlassMorphism Flip DebitCard](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-30-GlassMorphism%20Flip%20DebitCard)| [Preview](https://glassmorphism-flip-debitcard.aayushjaincode.repl.co/)|
 | Day-31| [Random Dad Jokes Generator](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-31-Random%20Dad%20Jokes%20Generator)| [Preview](https://random-dad-jokes-generator.aayushjaincode.repl.co/)|
 | Day-32| [Creative-cards-Slider](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-32-Creative-cards-Slider)| [Preview](https://cards-slider.aayushjaincode.repl.co/)|
-
+| Day-33| [Theme Switcher](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-33-Theme%20Switcher)| [Preview](https://theam-switcher.aayushjaincode.repl.co/)|
 
 ## Linkedin
 <img src="./linkedin.png" width=25px>    https://www.linkedin.com/in/aayush-jain-code/
