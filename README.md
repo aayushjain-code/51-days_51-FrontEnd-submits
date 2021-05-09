@@ -42,5 +42,6 @@
 | Day-33| [Theme Switcher](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-33-Theme%20Switcher)| [Preview](https://theam-switcher.aayushjaincode.repl.co/)|
 | Day-34| [NewsLetter Signup](https://github.com/Aayushjain-code/51-days_51-FrontEnd-submits/tree/master/day-34-Newsletter-Signup)| [Preview](https://newsletter.aayushjaincode.repl.co/)|
 | Day-35| [Recipe-App-Using-JS-API](https://github.com/Aayushjain-code/Recipe-App-Using-JS-API)| [Preview](https://recipe-app-using-js-api.aayushjaincode.repl.co/)|
+| Day-36| [Indian_States_Search](https://github.com/Aayushjain-code/Indian_States_Search)| [Preview](https://indianstatessearch.aayushjaincode.repl.co/)|
 ## Linkedin
 <img src="./linkedin.png" width=25px>    https://www.linkedin.com/in/aayush-jain-code/
