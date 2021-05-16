@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.6;
+  background-color: #eee;
+}
+
+.container {
+  width: 500px;
+  height: 350px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  background-color: #fff;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+}
+
+.container span {
+  height: 100%;
+  background-image: url("p2.jpg");
+  left: 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  transition: all 1s;
+  border-radius: 5px;
+}
+
+.container span:nth-child(1) {
+  width: 25%;
+  z-index: 6;
+  transition-delay: 0s;
+}
+
+.container span:nth-child(2) {
+  width: 50%;
+  z-index: 5;
+  transition-delay: 0.2s;
+}
+
+.container span:nth-child(3) {
+  width: 75%;
+  z-index: 4;
+  transition-delay: 0.4s;
+}
+
+.container span:nth-child(4) {
+  width: 100%;
+  z-index: 3;
+  transition-delay: 0.6s;
+}
+
+.container:hover span {
+  transform: translateY(-100%);
+}
+
+.container:hover span:nth-child(1) {
+  transition-delay: 0.6s;
+}
+
+.container:hover span:nth-child(2) {
+  transition-delay: 0.4s;
+}
+
+.container:hover span:nth-child(3) {
+  transition-delay: 0.2s;
+}
+
+.container:hover span:nth-child(4) {
+  transition-delay: 0s;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  padding: 0 30px;
+  text-transform: capitalize;
+  font-family: 'Century Gothic';
+  text-align: center;
+  transform: translateY(100%);
+  transition: all 1.5s;
+  transition-delay: 0.3s;
+  color: #444;
+}
+
+.content p {
+  margin: 20px 0 30px;
+}
+
+.content a {
+  text-decoration: none;
+  color: #444;
+  padding: 10px 20px;
+  border: 3px solid #444;
+  font-weight: bolder;
+}
+
+.container:hover .content {
+  transform: translateY(0);
+}
