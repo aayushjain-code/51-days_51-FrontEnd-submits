@@ -1,0 +1,109 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Nunito", sans-serif;
+	background: #e4e4e4;
+}
+
+
+.header {
+	text-align: center;
+	position: relative;
+	top: 50px;
+
+}
+
+.input {
+	text-align: center;
+	margin: 80px auto 50px;
+}
+
+
+/* button */
+input[type="submit"] {
+	padding: 15px 30px;
+	background: #7bff0067;
+	border: none;
+	border-radius: 5px;
+	font-family: "Nunito", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	transition: 0.2s;
+}
+
+input[type="submit"]:hover {
+	padding: 18px 35px;
+	background: greenyellow;
+	font-size: 22px;
+}
+
+/* search box */
+.input input[type="text"] {
+	width: 600px;
+	height: 55px;
+	padding: 5px 10px;
+	background: #ffe60069;
+	border: none;
+	border-radius: 5px;
+	font-family: "Nunito", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.card {
+	padding: 40px 0;
+	width: 50%;
+	background: rgb(161, 161, 161);
+	height: 45vh;
+	margin: 50px auto;
+	border-radius: 2px;
+	border-radius: 25px;
+}
+
+.close {
+	float: right;
+	margin-top: -2px;
+	cursor: pointer;
+	margin-right: 20px;
+}
+
+.card h1 {
+	padding: 5px 0;
+	text-align: center;
+	margin-right: 15px;
+	position: relative;
+	right: 30px;
+}
+
+.card p {
+	padding: 10px;
+	border-radius: 50px;
+	width: 50%;
+
+	position: relative;
+	left: 180px;
+
+
+
+}
+
+.weather-icon {
+	text-align: center;
+	position: relative;
+	bottom: 285px;
+	left: 100px;
+
+
+
+
+}
+
+.card p {
+	text-align: center;
+	margin: 40px 0;
+	font-size: 20px;
+}
